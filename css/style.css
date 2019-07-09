@@ -1,0 +1,561 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+}
+
+
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+
+/*menu Start*/
+header {
+    width: 100%;
+    float: left;
+    background-color: #87509C;
+    padding: 25px 0px;
+}
+
+.logo {
+    display: inline;
+    float: left;
+    width: 30%;
+}
+
+.logo img {
+    display: block;
+    max-width: 100%;
+}
+
+.menu {
+    width: 70%;
+    float: left;
+}
+
+nav {
+    margin: 18px 10px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    padding: 0px 50px;
+    list-style: none;
+    color: white;
+    text-decoration: none;
+}
+
+/*menu end*/
+
+/*Banner Start*/
+.banner {
+    width: 600px;
+    margin: 0px auto;
+    padding: 80px 20px;
+}
+
+.banner h1 {
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+
+
+
+.btn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background: #EB7D4B;
+    text-transform: uppercase;
+}
+
+/*Banner End*/
+
+/*Service Sec Start*/
+
+
+.Service-One{
+width: 100%;
+background-color: #17C2A4;
+float: left;
+padding-top: 30px;
+padding-bottom: 30px;
+
+}
+
+.Service-text{
+
+text-align: center;
+width: 600px;
+margin: 0px auto;
+}
+
+
+.Service-One h1 {
+    text-transform: uppercase;
+}
+
+.Service-One p {
+    text-transform: capitalize;
+    padding: 10px;
+}
+
+.underline {
+    width: 100px;
+    border-bottom: 2px solid;
+    display: block;
+    padding: 0px 30px;
+    margin: 10px auto;
+}
+
+.Service-Work{
+
+
+}
+
+.Service-Work-one {
+    width: 25%;
+    float: left;
+    padding-top: 30px;
+}
+
+.Service-Work img {
+    display: block;
+    max-width: 100%;
+    margin: 0px auto;
+}
+
+.Service-Work h2 {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.Service-One p {
+    text-transform: capitalize;
+    padding: 10px;
+    text-align: center;
+}
+
+/*Service Sec End*/
+
+img{
+     display: block;
+    max-width: 100%;
+
+}
+
+/*Team Start*/
+
+.Service-Two{
+width: 100%;
+background-color: #d3d3d3;
+float: left;
+padding-top: 30px;
+padding-bottom: 30px;
+
+}
+
+.Team-text{
+
+text-align: center;
+width: 600px;
+margin: 0px auto;
+}
+
+
+.Service-Two h1 {
+    text-transform: uppercase;
+}
+
+
+.Service-Two h2 {
+    text-transform: uppercase;
+    color: darkslategray;
+}
+
+.Service-Two h4 {
+    text-transform: uppercase;
+    text-align: center;
+    color: blue;
+}
+
+.Service-Two p {
+    text-transform: capitalize;
+    padding: 10px;
+    text-align: center;
+}
+
+.underline {
+    width: 100px;
+    border-bottom: 2px solid;
+    display: block;
+    padding: 0px 30px;
+    margin: 10px auto;
+}
+
+.Team-Work{
+
+
+}
+
+.Team-Work-one {
+    width: 25%;
+    float: left;
+    padding-top: 30px;
+}
+
+.Team-Work img {
+    display: block;
+    max-width: 100%;
+    margin: 0px auto;
+}
+
+.Team-Work h2 {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.Team-One p {
+    text-transform: capitalize;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.Team-Work-one ul{
+
+}
+
+.Team-Work-one ul li {
+    display: inline;
+    padding: 10px;
+}
+
+/*Team End*/
+
+/*Skill Start*/
+
+.Skill{
+width: 100%;
+background-color: #ffffff;
+float: left;
+padding-top: 30px;
+padding-bottom: 30px;
+
+}
+
+.Skill-text{
+
+text-align: center;
+width: 600px;
+margin: 0px auto;
+}
+
+
+.Skill-text-img{
+    width: 25%;
+    float: left;
+    padding-top: 30px;
+
+}
+
+
+.Skill h4 {
+    text-transform: capitalize;
+    color: darkslategray;
+}
+
+
+
+.underline {
+    width: 100px;
+    border-bottom: 2px solid;
+    display: block;
+    padding: 0px 30px;
+    margin: 10px auto;
+}
+
+.Team-Work{
+
+
+}
+
+.Skill-text-one {
+    padding-top: 30px;
+}
+
+.Skill-text-one img {
+    display: block;
+    margin: 0px auto;
+}
+
+.Skill-text-one h1 {
+    text-align: center;
+    padding-top: 25px;
+}
+
+/*Skill End*/
+
+/*portfolio start*/
+.Portfolio{
+	width: 100%;
+    float: left;
+    background: #FFDD99;
+    padding-top: 25px;
+    padding-bottom: 24px;
+}
+.Portfolio-text{
+	width: 600px;
+    margin: 0 auto;
+    text-align: center
+}
+.Portfolio-text h1{
+	
+}
+.Portfolio-text p{
+	    padding-top: 10px;
+}
+.bt{
+	padding: 4px 10px;
+    margin: 10px;
+    background: #C7AC75;
+    color: white;
+    border: none;
+}
+.Portfolio-pic{
+width: 100%;
+float: left;
+}
+.Portfolio-one{
+	width: 50%;
+	float: left;
+}
+.Portfolio-one img{
+	padding-bottom: 10px;
+}
+.Portfolio-one h1{
+	text-align: center;
+	padding-bottom: 10px;
+}
+.Portfolio-pict{
+	width: 100%;
+	float: left;
+}
+.Portfolio-two{
+	width: 50%;
+	float: left;
+}
+.Portfolio-two img{
+	padding-bottom: 10px;
+}
+.Portfolio-two h1{
+	text-align: center;
+	padding-bottom: 10px;
+}
+.bton {
+    margin: 0 auto;
+    display: block;
+    padding: 16px 25px;
+    background: aquamarine;
+    box-shadow: 0px 3px 0px #008278;
+    color: black;
+}
+
+/*portfolio End*/
+
+
+/*Review Start*/
+
+.about{
+    width: 100%;
+    float: left;
+    margin: 0 auto;
+    background: #D74680;
+    padding-bottom: 30px;
+}
+.about-text{
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 30px;
+
+}
+.about-text h1{
+    text-transform: uppercase;
+    color: black;
+}
+.about-text p{
+
+    text-transform: capitalize;
+    color: #25ff00;
+    padding: 20px;
+}
+.about-t{
+width: 50%;
+    float: left;
+}
+.about-slide{
+    width: 100%;
+    float: left;
+}
+.about-pic{
+    width: 50%;
+    float: left;
+}
+.about-pic img{
+    display: block;
+    max-width: 100%;
+}
+.about-pic p{
+    padding: 15px 10px 0px 60px;
+    font-size: 18px;
+    color: black;
+    text-transform: capitalize;
+}
+.about-pic h1{
+    text-transform: uppercase;
+    font-size: 30px;
+    padding-left: 54px;
+    padding-top: 25px;
+    color: white;
+}
+.about-pic h3{
+    padding-left: 52px;
+    color: #25ff00
+}
+.about-y{
+    width: 50%;
+    float: left;
+}
+
+/*Review End*/
+
+/*From Start*/
+
+
+.From{
+    width: 100%;
+    float: left;
+    background: #3C5499;
+    padding-top: 30px;
+}
+.From-text{
+    width: 600px;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+.From-text h1{
+    color: white;
+}
+
+.From-text p {
+    text-transform: capitalize;
+    color: white;
+    text-align: center;
+    width: 500px;
+    padding-bottom: 10px;
+}
+
+.contact{
+    width: 600px;
+    margin: 0 auto;
+}
+.from-contact{
+
+    padding: 5px 60px;
+    background: #284f71;
+    border: none;
+    text-align: center;
+}
+.span-contact{
+    padding: 50px 210px;
+    margin-top: 10px;
+    background: #284f71;
+    border: none;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.btone{
+    padding: 15px 30px;
+    background: #294e71;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    font-size: 20px;
+    display: block;
+    margin-bottom: 30px;
+    box-shadow: 0px 2px black;
+}
+
+/*From End*/
+
+/*footer Start*/
+.footer-menu{
+	width: 100%;
+    float: left;
+    padding-top: 30px;
+    background: #344B8E;
+    padding-bottom: 30px;
+}
+.menu-two{
+
+}
+.menu-two ul{
+    list-style: none;
+}
+
+.menu-two ul li{
+    display: inline;
+    margin: 50px;
+    text-transform: uppercase;
+}
+
+.menu-two ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+/*footer End*/
+
+
+/*Icon css start*/
+
+.fa.fa-facebook {
+    color: white;
+    padding: 5px 15px;
+    background-color: #3a3aad;
+    border-radius: 1000px;
+}
+
+
+.fa.fa-twitter {
+    color: white;
+    padding: 5px 15px;
+    background-color: #0ecabc;
+    border-radius: 1000px;
+}
+
+.fa.fa-linkedin-square {
+    color: white;
+    padding: 5px 15px;
+    background-color: #349aaf;
+    border-radius: 1000px;
+}
+
+.fa.fa-envelope {
+    color: white;
+    padding: 5px 15px;
+    background-color: #757d7d;
+    border-radius: 1000px;
+}
+
+/*Icon css End*/
